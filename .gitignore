@@ -1,0 +1,27 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+
+# Environment and IDE files
+venv/
+env/
+ENV/
+.venv/
+.env/
+.idea/
+.vscode/
+*.swp
+
+# Logs and output
+*.log
+*.out
+*.tmp
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
