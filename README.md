@@ -26,7 +26,7 @@ cd Basic-Data-Analysis
 ### Step 2: Install Required Packages
 Use the following command to install dependencies:
 ```bash
-pip install pandas matplotlib seaborn scikit-learn
+pip install pandas matplotlib seaborn scikit-learn tabulate
 ```
 ### Step 3: Run the Script
 ```bash
